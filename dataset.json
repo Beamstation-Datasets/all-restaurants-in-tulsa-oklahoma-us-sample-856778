@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Tulsa, Oklahoma with a population of over 413k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Tulsa, Oklahoma, US",
-  "export_job_id": "62e265d4-2bdf-4871-9771-2ec6241ee451",
+  "export_job_id": "d62b4233-926b-44bb-b6b5-6a91c4d045bc",
   "github_org": "Beamstation-Datasets",
   "id_short": 856778,
   "location_name": "Tulsa",
   "location_type": "city",
   "repo_name": "all-restaurants-in-tulsa-oklahoma-us-sample-856778",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/856778/beamstation_856778_restaurants-us-ok_SAMPLE_DIST.csv",
-  "sample_pct": 9.81,
+  "sample_pct": 9.99,
   "sample_records": 154,
   "sample_sha256": "a3958a6def252eeeb281bd4a9884443fee23d10dd1100e9fefdec17aef004aad",
   "sample_size_bytes": 549919,
-  "total_records": 1570,
-  "updated_at": "2026-04-07T11:06:57.526989+00:00"
+  "total_records": 1541,
+  "updated_at": "2026-04-14T11:02:42.678612+00:00"
 }
