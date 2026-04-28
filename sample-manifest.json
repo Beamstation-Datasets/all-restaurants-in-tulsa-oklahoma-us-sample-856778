@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e30166a6-2e2c-4ceb-bf16-61c1feac277f",
+  "export_job_id": "6c49934f-b701-4202-b6b6-c04861bd377e",
   "id_short": 856778,
-  "published_at": "2026-04-21T19:54:23Z",
+  "published_at": "2026-04-28T19:58:10Z",
   "repo_name": "all-restaurants-in-tulsa-oklahoma-us-sample-856778",
   "sample_asset_name": "beamstation_856778_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/856778/beamstation_856778_restaurants-us-ok_SAMPLE_DIST.csv",
-  "sample_records": 112,
-  "sample_sha256": "281c07bae2fef2d947cc2d701020037513ea8b2444ead3c0f85c67c7b74dac82",
-  "sample_size_bytes": 399446,
-  "total_records": 1125
+  "sample_records": 152,
+  "sample_sha256": "b192f81cb2dd88d727682f70df62a2ee3666f938d1eadf7e353d49330414a48a",
+  "sample_size_bytes": 522966,
+  "total_records": 1520
 }
